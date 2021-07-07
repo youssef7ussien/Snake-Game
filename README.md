@@ -1,4 +1,4 @@
-![cover](images\snake_game_cover.png)
+![cover](images/snake_game_cover.png)
 
 
 
@@ -53,11 +53,11 @@ Maybe if I had the chance, I could refactoring this code again.
 ## Screenshots
 | Levels |
 | :--: |
-| ![levels](images\levels.png) |
+| ![levels](images/levels.png) |
 | **Snake Speed** |
-| ![snake speed](images\snake_speed.png) |
+| ![snake speed](images/snake_speed.png) |
 | **Other Screenshots** |
-| ![other screenshots](images\other_screenshots.png) |
+| ![other screenshots](images/other_screenshots.png) |
 
 </b>
 
