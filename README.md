@@ -4,6 +4,10 @@
 
 <h1 align="center"> <img height='25' alt='icon' src='images/logo.png'/>  Snake Game</h1><p align="center">Snake game is an <b>console application</b>, It is a complete simulation of the classic snake game. <br> Developed using <b>C++ language</b>.</p>
 
+
+https://user-images.githubusercontent.com/53413129/124839820-37d72d00-df92-11eb-8d84-1a6c5400ff18.mp4
+
+
 </b>
 
 ## Features
